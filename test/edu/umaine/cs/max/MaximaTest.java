@@ -1,4 +1,4 @@
-package edu.umaine.cs.cos515.max;
+package edu.umaine.cs.max;
 
 import static org.junit.Assert.*;
 
@@ -6,7 +6,7 @@ import java.text.ParseException;
 
 import org.junit.Test;
 
-import edu.umaine.cs.cos515.max.Maxima;
+import edu.umaine.cs.max.Maxima;
 
 /**
  * A collection of test to make sure the Maxima parser is working correctly.

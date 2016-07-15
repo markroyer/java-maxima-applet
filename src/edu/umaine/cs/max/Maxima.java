@@ -1,14 +1,14 @@
 /**
  * 
  */
-package edu.umaine.cs.cos515.max;
+package edu.umaine.cs.max;
 
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.*;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.*;
 
 import java.text.ParseException;
 
-import edu.umaine.cs.cos515.max.Exp.ExpType;
-import edu.umaine.cs.cos515.max.MaximaScanner.TokenType;
+import edu.umaine.cs.max.Exp.ExpType;
+import edu.umaine.cs.max.MaximaScanner.TokenType;
 
 /**
  * @author Mark Royer

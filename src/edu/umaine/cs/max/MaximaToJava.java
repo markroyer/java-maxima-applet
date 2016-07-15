@@ -1,7 +1,7 @@
 /**
  * 
  */
-package edu.umaine.cs.cos515.max;
+package edu.umaine.cs.max;
 
 import java.io.InputStream;
 import java.io.PrintStream;

@@ -1,21 +1,21 @@
 /**
  * 
  */
-package edu.umaine.cs.cos515.max;
+package edu.umaine.cs.max;
 
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.ASTERISK;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.DONE;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.EQUALS;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.HAT;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.IDENTIFIER;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.LBRACE;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.LPAREN;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.MINUS;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.PLUS;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.RBRACE;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.RPAREN;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.SLASH;
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.UNKNOWNTYPE;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.ASTERISK;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.DONE;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.EQUALS;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.HAT;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.IDENTIFIER;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.LBRACE;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.LPAREN;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.MINUS;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.PLUS;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.RBRACE;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.RPAREN;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.SLASH;
+import static edu.umaine.cs.max.MaximaScanner.TokenType.UNKNOWNTYPE;
 
 /**
  * <code>MaximaScanner</code> is used to find and return tokens in Maxima

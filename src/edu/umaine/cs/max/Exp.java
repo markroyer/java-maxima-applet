@@ -1,9 +1,9 @@
 /**
  * 
  */
-package edu.umaine.cs.cos515.max;
+package edu.umaine.cs.max;
 
-import static edu.umaine.cs.cos515.max.Exp.ExpType.*;
+import static edu.umaine.cs.max.Exp.ExpType.*;
 
 /**
  * Represents a Java mathematical expression.

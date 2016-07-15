@@ -1,12 +1,11 @@
-package edu.umaine.cs.cos515.max;
+package edu.umaine.cs.max;
 
 import org.junit.Test;
 
-import edu.umaine.cs.cos515.max.MaximaScanner;
+import edu.umaine.cs.max.MaximaScanner;
 
+import static edu.umaine.cs.max.MaximaScanner.TokenType.*;
 import static org.junit.Assert.*;
-
-import static edu.umaine.cs.cos515.max.MaximaScanner.TokenType.*;
 
 /**
  * A collection of tests to make sure that the Maxima scanner is working
